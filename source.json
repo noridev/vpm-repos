@@ -3,13 +3,12 @@
     "id":"moe.noridev.vpm",
     "url":"https://noridev.github.io/vpm-repos/index.json",
     "author":{
-        "email":"m1nthing2322@gmail.com",
         "name":"NoriDev",
         "url":"https://github.com/noridev"
     },
     "description":"NoriDev's VPM Repo",
     "infoLink":{
-        "url":"https://noridev.github.io/vpm-repos",
+        "url":"https://github.com/noridev/vpm-repos",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
