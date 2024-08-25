@@ -1,7 +1,7 @@
 # noridev/vpm-repos
 VPM repository by [noridev](https://github.com/noridev).
 
-[![Add to VCC](https://img.shields.io/badge/-Add%20to%20VCC-%232baac1?style=for-the-badge)](vcc://vpm/addRepo?url=https://vpm.noridev.moe/index.json)
+[![Add to VCC](https://img.shields.io/badge/-Add%20to%20VCC-%232baac1?style=for-the-badge)](https://vpm.noridev.moe/)
 
 ## Packages
 - [LightLimitChangerForMA](https://github.com/noridev/LightLimitChangerForMA)
