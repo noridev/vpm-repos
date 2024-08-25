@@ -4,8 +4,8 @@ VPM repository by [noridev](https://github.com/noridev).
 [![Add to VCC](https://img.shields.io/badge/-Add%20to%20VCC-%232baac1?style=for-the-badge)](https://vpm.noridev.moe/)
 
 ## Packages
-- [LightLimitChangerForMA](https://github.com/noridev/LightLimitChangerForMA)
-- [lilAvatarUtils](https://github.com/noridev/lilAvatarUtils)
+- [NoriDev - LightLimitChangerForMA](https://github.com/noridev/LightLimitChangerForMA)
+- [NoriDev - lilAvatarUtils](https://github.com/noridev/lilAvatarUtils)
 
 ## Usage
 Click [here](https://vpm.noridev.moe) to add `https://vpm.noridev.moe/index.json` as a community repository in VCC Settings.
