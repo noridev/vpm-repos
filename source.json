@@ -14,7 +14,8 @@
     "bannerUrl":"banner.png",
     "githubRepos":[
         "noridev/LightLimitChangerForMA",
-        "noridev/lilAvatarUtils"
+        "noridev/lilAvatarUtils",
+        "noridev/d4rkAvatarOptimizer"
     ],
     "packages":[]
 }
