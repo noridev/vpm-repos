@@ -6,6 +6,7 @@ VPM repository by [noridev](https://github.com/noridev).
 ## Packages
 - [NoriDev - LightLimitChangerForMA](https://github.com/noridev/LightLimitChangerForMA)
 - [NoriDev - lilAvatarUtils](https://github.com/noridev/lilAvatarUtils)
+- [NoriDev - d4rkAvatarOptimizer](https://github.com/noridev/d4rkAvatarOptimizer)
 
 ## Usage
 Click [here](https://vpm.noridev.moe) to add `https://vpm.noridev.moe/index.json` as a community repository in VCC Settings.
