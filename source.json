@@ -15,7 +15,8 @@
     "githubRepos":[
         "noridev/LightLimitChangerForMA",
         "noridev/lilAvatarUtils",
-        "noridev/d4rkAvatarOptimizer"
+        "noridev/d4rkAvatarOptimizer",
+        "noridev/MultiObjectAdder"
     ],
     "packages":[]
 }
