@@ -18,6 +18,15 @@ If you use VPM CLI, use the following command.
 vpm add repo https://vpm.noridev.moe/index.json
 ```
 
+## 사용 방법
+[여기](https://vpm.noridev.moe)를 클릭해 `https://vpm.noridev.moe/index.json` 를 VCC 설정의 커뮤니티 리포지토리로 추가합니다.
+
+VPM CLI를 사용 중이라면 다음 명령어를 입력하십시오.
+
+```shell
+vpm add repo https://vpm.noridev.moe/index.json
+```
+
 ## 使い方
 [こちら](https://vpm.noridev.moe)をクリックして VCC の設定で `https://vpm.noridev.moe/index.json` をコミュニティリポジトリに追加してください。
 
