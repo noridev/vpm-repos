@@ -6,6 +6,7 @@ VPM repository by [noridev](https://github.com/noridev).
 ## Packages
 - [NoriDev - LightLimitChangerForMA](https://github.com/noridev/LightLimitChangerForMA)
 - [NoriDev - lilAvatarUtils](https://github.com/noridev/lilAvatarUtils)
+- [NoriDev - lilEditorToolbox](https://github.com/noridev/lilEditorToolbox)
 - [NoriDev - d4rkAvatarOptimizer](https://github.com/noridev/d4rkAvatarOptimizer)
 - [NoriDev - MultiObjectAdder ](https://github.com/noridev/MultiObjectAdder )
 
