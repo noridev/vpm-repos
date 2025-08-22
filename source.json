@@ -17,7 +17,8 @@
         "noridev/lilAvatarUtils",
         "noridev/lilEditorToolbox",
         "noridev/d4rkAvatarOptimizer",
-        "noridev/MultiObjectAdder"
+        "noridev/MultiObjectAdder",
+        "noridev/AssetsHighlighter"
     ],
     "packages":[]
 }

@@ -8,7 +8,8 @@ VPM repository by [noridev](https://github.com/noridev).
 - [NoriDev - lilAvatarUtils](https://github.com/noridev/lilAvatarUtils)
 - [NoriDev - lilEditorToolbox](https://github.com/noridev/lilEditorToolbox)
 - [NoriDev - d4rkAvatarOptimizer](https://github.com/noridev/d4rkAvatarOptimizer)
-- [NoriDev - MultiObjectAdder ](https://github.com/noridev/MultiObjectAdder )
+- [NoriDev - MultiObjectAdder](https://github.com/noridev/MultiObjectAdder)
+- [NoriDev - AssetsHighlighter](https://github.com/noridev/AssetsHighlighter)
 
 ## Usage
 Click [here](https://vpm.noridev.moe) to add `https://vpm.noridev.moe/index.json` as a community repository in VCC Settings.
